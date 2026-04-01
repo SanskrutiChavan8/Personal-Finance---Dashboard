@@ -7,7 +7,6 @@ This project focuses on analyzing personal financial data including income, expe
 
 ## 🔹 Tools Used
 - Microsoft Excel (Pivot Tables, Charts)
-- Power BI (DAX, Dashboard)
 
 ## 🔹 Key Features
 - KPI metrics: Savings Rate, Expense Ratio, Investment Ratio
