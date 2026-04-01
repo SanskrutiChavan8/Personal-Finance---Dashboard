@@ -1,7 +1,7 @@
 # Personal-Finance---Dashboard
-Personal Finance Dashboard using Excel
-# 📊 Personal Finance Dashboard
+<img width="919" height="642" alt="Personal Finance Dashboard" src="https://github.com/user-attachments/assets/2ec14ee0-7a2f-458e-84da-ee3d7c9c7aae" />
 
+Personal Finance Dashboard using Excel
 ## 🔹 Project Overview
 This project focuses on analyzing personal financial data including income, expenses, savings, and investments using Excel and Power BI.
 
@@ -21,7 +21,3 @@ This project focuses on analyzing personal financial data including income, expe
 
 ## 🔹 Files Included
 - Personal Finances Dashboard.xlsx
-- Resume.pdf
-
-## 🔗 Project Link
-(Add your GitHub repo link here later)
